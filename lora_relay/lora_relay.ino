@@ -1,3 +1,11 @@
+/*************************************************************************************************
+ *  Created By: Tauseef Ahmad
+ *  Created On: 20 July, 2023
+ *  
+ *  YouTube Video: https://youtu.be/390JbyaBIjg
+ *  My Channel: https://www.youtube.com/@AhmadLogs
+ ***********************************************************************************************/
+
 #include <SoftwareSerial.h>
 SoftwareSerial lora_serial(2, 3); // RX, TX
 
